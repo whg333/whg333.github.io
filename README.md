@@ -1,2 +1,2 @@
 # whg333.github.io
-iclojureBlog
+[iclojure blog](http://www.iclojure.com/blog/)
